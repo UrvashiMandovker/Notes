@@ -14,7 +14,7 @@ A Flutter-based secure note-taking app with encryption, biometric authentication
 
 ## Installation
 ```sh
-git clone https://github.com/UrvashiMandovker/Notes.git
+git clone https://github.com/UrvashiMandovker/Secure_Notes.git
 cd Notes
 flutter pub get
 flutter run
