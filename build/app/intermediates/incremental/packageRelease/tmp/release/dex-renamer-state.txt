@@ -1,0 +1,4 @@
+#Tue Jan 14 13:12:20 IST 2025
+base.0=/Users/appletw/Documents/test-task/maatra/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
